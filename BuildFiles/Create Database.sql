@@ -1,0 +1,12 @@
+CREATE DATABASE ETC; 
+
+USE ETC 
+
+
+
+
+
+
+
+
+
